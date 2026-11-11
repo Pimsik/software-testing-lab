@@ -21,6 +21,3 @@
    - `npx playwright install chromium`
 4. Запустіть тест командою:
    - `node test.js`
-
-## Використаний інструмент ШІ
-- Google Gemini
